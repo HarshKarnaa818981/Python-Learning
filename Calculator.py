@@ -89,3 +89,4 @@ elif option == "GST Calculator":
         total_amount = amount + gst
         st.success(f"GST Amount: ₹{gst:.2f}")
         st.success(f"Total Amount (including GST): ₹{total_amount:.2f}")
+
